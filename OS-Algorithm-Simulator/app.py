@@ -23,7 +23,7 @@ st.markdown("""
             --secondary-color: #6c5ce7;
             --accent-color: #a29bfe;
             --text-color: #2c3e50;
-            --bg-color: #f8f9fa;
+            --bg-color: black;
             --card-bg: #ffffff;
         }
         
